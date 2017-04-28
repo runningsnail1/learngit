@@ -12,3 +12,6 @@ this is added by Dave.
 this is added by Jiangzx
 this is a new added line.
 learn conflict.
+abc
+bcd
+efg
