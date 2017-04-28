@@ -6,3 +6,8 @@ Creating a new branch is quickly.
 Creating a new branch is quickly and simple.
 changing readme.
 changing readme.txt.
+adsfjkadsfkakdjfklajdsk.
+This is added by Jiangzx.
+this is added by Dave.
+this is added by Jiangzx
+this is a new added line.
